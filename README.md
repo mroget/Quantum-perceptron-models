@@ -10,3 +10,8 @@ In order to run the notebook on your computer you need the following softwares a
 - Python 3.x
 - Jupyter
 ### Python 3 packages
+- matplotlib
+- numpy
+- pandas
+- seaborn
+- sklearn
